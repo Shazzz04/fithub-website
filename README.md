@@ -43,7 +43,7 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 Created by **Shaza**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
 
 ## 📬 Contact
-- 📧 Email: `shazzz04@example.com`
+- 📧 Email: `shazafaizer20@gmail.com`
 - 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 🧠 Portfolio: *(Add your portfolio link here if available)*
 
