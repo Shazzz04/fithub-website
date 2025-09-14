@@ -2,6 +2,8 @@
 
 FitHub is a responsive fitness website designed to motivate users toward healthier lifestyles. It features personalized workout programs, supplement ordering, BMI tracking, and admin management—all built with PHP, JavaScript, and CSS.
 
+![FitHub Banner](banner.png)
+
 ## 🌐 Live Demo
 [🔗 View FitHub Website](https://shazzz04.github.io/fithub-website)
 
