@@ -2,11 +2,6 @@
 
 FitHub is a responsive fitness website designed to motivate users toward healthier lifestyles. It features personalized workout programs, supplement ordering, BMI tracking, and admin management—all built with PHP, JavaScript, and CSS.
 
-![FitHub Banner](banner.png)
-
-## 🌐 Live Demo
-[🔗 View FitHub Website](https://shazzz04.github.io/fithub-website)
-
 ## 🧰 Tech Stack
 - **Front-end**: HTML5, CSS3, JavaScript
 - **Back-end**: PHP
@@ -33,19 +28,29 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 | `db.php`            | Database connection setup            |
 
 ## 🛠 How to Run Locally
-1. Clone the repo:  
-   `git clone https://github.com/Shazzz04/fithub-website.git`
-2. Set up a local server (XAMPP/WAMP recommended)
-3. Import the database using `db.php`
-4. Launch `main.php` in your browser
+1. Clone the repository:
+   git clone https://github.com/Shazzz04/fithub-website.git
+2. Start your local server (XAMPP/WAMP/MAMP):
+   - Enable Apache
+   - Enable MySQL
+3. Import the database:
+   - Open http://localhost/phpmyadmin
+   - Create a new database (example: fitnessbub)
+   - Go to the Import tab
+   - Upload the database.sql file included in the project
+   - Click Go
+4. Move the project into your server directory:
+   xampp/htdocs/
+5. Run the project in your browser:
+   http://localhost/fithub-website/
+   or
+   http://localhost/fithub-website/index.php
+
 
 ## 👩‍💻 About the Developer
-Created by **Shaza**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
+Created by **Shaza Faizer**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
 
 ## 📬 Contact
 - 📧 Email: `shazafaizer20@gmail.com`
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧠 Portfolio: *(Add your portfolio link here if available)*
+- 🌐 [LinkedIn](linkedin.com/in/shaza-faizer-bb5abb2b4)
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
