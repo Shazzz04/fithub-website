@@ -10,7 +10,7 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 
 ## 🚀 Key Features
 - 🏋️‍♀️ **Program Categories**: Strength, Fat Loss, Weight Gain
-- 🧮 **BMI Calculator**: Python-powered health tool
+- 🧮 **BMI Calculator**:  Health tool
 - 🛒 **Supplement Store**: Browse and order products
 - 👤 **User Authentication**: Registration and login system
 - 🧑‍💼 **Admin Dashboard**: Manage classes and products
