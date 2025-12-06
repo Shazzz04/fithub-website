@@ -42,10 +42,9 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 4. Move the project into your server directory:
    xampp/htdocs/
 5. Run the project in your browser:
-   http://localhost/fithub-website/
+   http://localhost/ASSIG/main.php
    or
-   http://localhost/fithub-website/index.php
-
+   http://localhost/ASSIG
 
 ## 👩‍💻 About the Developer
 Created by **Shaza Faizer**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
