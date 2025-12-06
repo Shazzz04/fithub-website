@@ -46,6 +46,24 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
    or
    http://localhost/ASSIG
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage1.png , screenshots/homepage2.png , screenshots/homepage3.png, screenshots/homepage4.png , screenshots/homepage5.png , screenshots/homepage6.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+### 🔐 Register Page
+![Login Page](screenshots/register.png)
+### 🔐 Supplement Page
+![Supplement Page](screenshots/supplement1.png) , (screenshots/supplement2.png)
+### 🔐 Class Page
+![Supplement Page](screenshots/class1.png) , (screenshots/class2.png)
+### 🔐 Checkout Page
+![Supplement Page](screenshots/checkout.png) 
+### 🧾 Admin Dashboard
+![Dashboard](screenshots/admindashboard1.png) , (screenshots/admindashboard2.png), (screenshots/admindashboard3.png).
+
 ## 👩‍💻 About the Developer
 Created by **Shaza Faizer**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
 
