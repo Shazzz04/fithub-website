@@ -49,7 +49,7 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage1.png , screenshots/homepage2.png , screenshots/homepage3.png, screenshots/homepage4.png , screenshots/homepage5.png , screenshots/homepage6.png)
+![Login Page](screenshots/homepage1.png) , screenshots/homepage2.png , screenshots/homepage3.png, screenshots/homepage4.png , screenshots/homepage5.png , screenshots/homepage6.png)
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
