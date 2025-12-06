@@ -24,7 +24,6 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 | `checkout.php`      | Order processing                     |
 | `register.php`      | User registration                    |
 | `admin_dashboard.php`| Admin controls                      |
-| `bmi_calculator.py` | BMI calculator logic                 |
 | `db.php`            | Database connection setup            |
 
 ## 🛠 How to Run Locally
