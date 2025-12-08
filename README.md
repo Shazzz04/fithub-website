@@ -47,20 +47,35 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 
 ## 📸 Screenshots
 
-🏠 Home Page
+### 🏠 Home Page
+![Home Page 1](screenshots/homepage1.png)
+![Home Page 2](screenshots/homepage2.png)
+![Home Page 3](screenshots/homepage3.png)
+![Home Page 4](screenshots/homepage4.png)
+![Home Page 5](screenshots/homepage5.png)
+![Home Page 6](screenshots/homepage6.png)
 
-🔐 Login Page
+### 🔐 Login Page
+![Login Page](screenshots/loginuser.png)
 
-📝 Register Page
+### 📝 Register Page
+![Register Page](screenshots/register.png)
 
-🛒 Supplement Page
+### 💊 Supplement Page
+![Supplement Page 1](screenshots/supplement1.png)
+![Supplement Page 2](screenshots/supplement2.png)
 
-🏋️‍♂️ Class Page
+### 🏋️ Class Page
+![Class Page 1](screenshots/class1.png)
+![Class Page 2](screenshots/class2.png)
 
-💳 Checkout Page
+### 🛒 Checkout Page
+![Checkout Page](screenshots/checkout.png)
 
-🧾 Admin Dashboard
-
+### 🧾 Admin Dashboard
+![Dashboard 1](screenshots/admindashboard1.png)
+![Dashboard 2](screenshots/admindashboard2.png)
+![Dashboard 3](screenshots/admindashboard3.png)
 
 
 ## 👩‍💻 About the Developer
