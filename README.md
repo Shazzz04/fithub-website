@@ -79,7 +79,10 @@ FitHub is a responsive fitness website designed to motivate users toward healthi
 
 
 ## 👩‍💻 About the Developer
-Created by **Shaza Faizer**, a final-year Software Engineering student with a passion for front-end development, UI/UX design, and practical web solutions. Currently working as a Process Associate at HCLTech while actively pursuing tech-focused career opportunities.
+
+**Shaza Faizer** is a final-year Software Engineering student with hands-on experience in **PHP web development**, **UI/UX design**, and building **practical, user-friendly web solutions**. Passionate about creating responsive and dynamic web applications, Shaza focuses on combining **clean code, intuitive interfaces, and functional design** to deliver seamless user experiences.  
+
+Actively pursuing opportunities in **full-stack web development, UI/UX projects, and practical software solutions**.
 
 ## 📬 Contact
 - 📧 Email: `shazafaizer20@gmail.com`
